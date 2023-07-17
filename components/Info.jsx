@@ -4,11 +4,11 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const Info = () => {
     const handleEmailClick = () => {
-    window.location.href = 'mailto:ayushsahu76@gmail.com';
+    window.open('mailto:ayushsahu76@gmail.com');
   };
 
   const handleLinkedInClick = () => {
-    window.location.href = 'https://www.linkedin.com/in/ayush-sahu-a7303a124/';
+    window.open('https://www.linkedin.com/in/ayush-sahu-a7303a124/');
   };
     return (
         <div className='info'>
