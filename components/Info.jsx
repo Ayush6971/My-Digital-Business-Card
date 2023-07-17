@@ -12,7 +12,7 @@ const Info = () => {
   };
     return (
         <div className='info'>
-        <img src='https://www.dropbox.com/s/84lac73lejd3su2/My_passport_pic.jpg?dl=0' alt="Profile" className="profile-image"/>
+        <img src='../public/assets/images/My_passport_pic.png' alt="Profile" className="profile-image"/>
         <h1 className="name">Ayush Sahu</h1>
         <h3 className="job-title">MERN Stack Developer</h3>
         <div className="contact-buttons">
