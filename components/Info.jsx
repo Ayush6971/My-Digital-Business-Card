@@ -12,7 +12,7 @@ const Info = () => {
   };
     return (
         <div className='info'>
-        <img src='./images/My_passport_pic.png' alt="Profile" className="profile-image"/>
+        <img src='/images/My_passport_pic.png' alt="Profile" className="profile-image"/>
         <h1 className="name">Ayush Sahu</h1>
         <h3 className="job-title">MERN Stack Developer</h3>
         <div className="contact-buttons">
